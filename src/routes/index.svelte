@@ -22,7 +22,6 @@
 			</div>
 			<div class="p-5 flex flex-col justify-center items-start">
 				<h1 class="font-bold text-5xl">Think different</h1>
-				<h1 class="text-3xl truncate"></h1>
 			</div>
 		</CardTitleBlock>
 		<CardContextBlock>
@@ -45,9 +44,6 @@
 			<div class="p-5">
 				<h1 class="text-4xl">在iOSClub，</h1>
 				<h1 class="font-bold text-5xl truncate">做你想做的</h1>
-			</div>
-			<div transition:fade class="flex justify-center items-center">
-				<canvas id="myChart" width="400" height="400" />
 			</div>
 		</CardTitleBlock>
 		<CardContextBlock>
